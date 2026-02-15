@@ -179,3 +179,6 @@ This investigation demonstrated how improper file upload validation can lead to 
 Through detailed PCAP analysis, the attacker’s origin, techniques, persistence methods, and exfiltration attempts were identified.
 
 Understanding these attack patterns enables stronger defensive strategies and improved incident response capabilities.
+
+
+https://cyberdefenders.org/blueteam-ctf-challenges/achievements/shezasheriff08/webstrike/
