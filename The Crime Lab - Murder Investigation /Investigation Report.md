@@ -1,4 +1,4 @@
-# 📱 Mobile Forensics Investigation: Murder Crime Investigation 
+# 📱 Mobile Forensics: Murder Crime Investigation 
 
 ## 📌 Platform  
 CyberDefenders DFIR Lab : Crime Lab
